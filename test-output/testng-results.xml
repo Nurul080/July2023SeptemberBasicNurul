@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-24T02:09:46 EDT" name="Default suite" finished-at="2023-09-24T02:09:50 EDT" duration-ms="3577">
+    <groups>
+    </groups>
+    <test started-at="2023-09-24T02:09:46 EDT" name="Default test" finished-at="2023-09-24T02:09:50 EDT" duration-ms="3577">
+      <class name="com.facebook.locators.DirectLocstors">
+        <test-method is-config="true" signature="openFacebook()[pri:0, instance:com.facebook.locators.DirectLocstors@45752059]" started-at="2023-09-24T02:09:46 EDT" name="openFacebook" finished-at="2023-09-24T02:09:48 EDT" duration-ms="2427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFacebook -->
+        <test-method signature="idLocatorsTest()[pri:0, instance:com.facebook.locators.DirectLocstors@45752059]" started-at="2023-09-24T02:09:48 EDT" name="idLocatorsTest" finished-at="2023-09-24T02:09:48 EDT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idLocatorsTest -->
+        <test-method signature="linkTestLocatorsTest()[pri:0, instance:com.facebook.locators.DirectLocstors@45752059]" started-at="2023-09-24T02:09:48 EDT" name="linkTestLocatorsTest" finished-at="2023-09-24T02:09:49 EDT" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTestLocatorsTest -->
+        <test-method signature="nameLocatorsTest()[pri:0, instance:com.facebook.locators.DirectLocstors@45752059]" started-at="2023-09-24T02:09:49 EDT" name="nameLocatorsTest" finished-at="2023-09-24T02:09:49 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameLocatorsTest -->
+        <test-method signature="partioalLinlTextLocatorsTest()[pri:0, instance:com.facebook.locators.DirectLocstors@45752059]" started-at="2023-09-24T02:09:49 EDT" name="partioalLinlTextLocatorsTest" finished-at="2023-09-24T02:09:50 EDT" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partioalLinlTextLocatorsTest -->
+      </class> <!-- com.facebook.locators.DirectLocstors -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
